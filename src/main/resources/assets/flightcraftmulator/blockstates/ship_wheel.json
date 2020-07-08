@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "": [
+            { "model": "flightcraftmulator:block/ship_wheel" }
+        ]
+    }
+}

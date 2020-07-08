@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xxx",
+    "xax",
+    "xxx"
+  ],
+  "key": {
+    "x": {
+      "item": "minecraft:stick"
+    },
+    "a": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "item": "flightcraftmulator:ship_wheel",
+    "count": 1
+  }
+}
